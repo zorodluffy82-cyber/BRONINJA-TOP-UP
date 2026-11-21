@@ -1,0 +1,8 @@
+npm notice run broninja-topup@1.0.0 seed
+npm notice run node server/db/seed.js
+[auth] JWT_SECRET not set — using insecure development default.
+[seed] Admin created -> username: admin  password: Broninja@2026
+[seed] Change this password immediately after first login.
+[seed] Games added: 16, packages added: 97
+[seed] Total games: 16
+[seed] Total packages: 97

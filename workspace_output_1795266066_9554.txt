@@ -1,0 +1,2 @@
+rebuilt dependencies successfully
+better-sqlite3 OK

@@ -1,0 +1,11 @@
+/workspace
+total 24
+drwxr-xr-x  6 user user 4096 Nov 21 13:00 .
+drwxr-xr-x 20 root root 4096 Nov 20 19:51 ..
+drwxr-xr-x  4 user user 4096 Nov 20 03:29 .agent_hooks
+drwxr-xr-x 11 root root 4096 Nov 21 13:00 .browser_data
+drwxr-xr-x  3 root root 4096 Nov 20 19:49 .psiphon_data
+drwxr-xr-x  2 root root 4096 Nov 21 13:00 outputs
+v22.23.5
+12.2.3
+Python 3.11.18
